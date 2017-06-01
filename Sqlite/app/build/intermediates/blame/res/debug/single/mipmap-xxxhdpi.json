@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/Sqlite/C:\\Users\\juhi bhatnagar\\AndroidStudioProjects\\Sqlite\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "/Users/apple/AndroidStudioProjects/Sqlite/C:\\Users\\juhi bhatnagar\\AndroidStudioProjects\\Sqlite\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/apple/AndroidStudioProjects/Sqlite/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

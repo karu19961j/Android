@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/Doctor/C:\\Users\\juhi bhatnagar\\AndroidStudioProjects\\Doctor\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "/Users/apple/AndroidStudioProjects/Doctor/C:\\Users\\juhi bhatnagar\\AndroidStudioProjects\\Doctor\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/apple/AndroidStudioProjects/Doctor/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/apple/AndroidStudioProjects/Doctor/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

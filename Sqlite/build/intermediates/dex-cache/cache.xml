@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.1_261eb41885e1a587738edbf714418d01c5c2fc8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.1_af0c3aacc9c2fec6d4c9fb62943740b473ce254b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.1_b8c529bee929bcbed6d54613eb0b0107abe23fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.1_69aeb79cdcf4f1e9d701202960c27d4fd506904a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.1_ba10ed15b0bda3420ca2e0a1ddc9438583682bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.1_00d7f8b95d78d0bb668c99b5c95662f2d97588ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.1_81fa4df020064de3f757bdf1751de0247b694f57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.1_1906e8e69e1a5e8039acf92067e3f4e1e1759fb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.1_e370553a1d4d5bb9dd3be3b09e1ddec9e2485161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.1_fa4290cb4902135f3e44e25e64d1bb72ba2805a4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.1_7bf4b280d544aba882af294faf42db1957d29a50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.1_e5467fa07a1e97214bb8f813fffd70e16b3ebf57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/apple/AndroidStudioProjects/Sqlite/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.1_b58fca5d1b39ec872bcae6ce360b43e5e81cdfb6.jar" />
+    </item>
+
+</items>
